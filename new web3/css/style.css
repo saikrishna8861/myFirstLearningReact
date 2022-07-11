@@ -1,0 +1,257 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: justify;
+}
+.section{
+    width: 100%;
+    float: left;
+}
+.info-header{
+    width: 100%;
+    float: left;
+    background: #000;
+    height: 40px;
+}
+.info{
+    width: 100%;
+    float: left;
+    padding-top: 10px;
+}
+.info-1{
+    width: 60%;
+    float: left;
+}
+.info-1 i{
+    color: #b2b1b8;
+    font-size: 13px;
+    
+}
+.info-1 a{
+    color: #b2b1b8;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+    font-weight: 400;
+    
+}
+.info-2{
+    width: 40%;
+    float: left;
+}
+.info-2 img{
+    width: 25px;
+    float: right;
+    margin-top: -2px;
+    margin-right: 12px;
+
+}
+header{
+    width: 100%;
+    float: left;
+    position: fixed;
+    background: transparent;
+}
+.header-1{
+    width: 30%;
+    float: left;
+}
+.header-2{
+    width: 70%;
+    float: left;
+   
+}
+
+.header-2 ul{
+    padding-top: 32px;
+    text-align: right;
+    
+}
+.header-2 li{
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    text-align: center;
+}
+.header-2 a{
+    color: black;
+    text-decoration: none;
+    padding-left: 21px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+}
+.welcome{
+    width: 100%;
+    float: left;
+    background: #0071AD;
+    height: 200px;
+}
+.welcome-1{
+    width: 60%;
+    float: left;
+}
+.welcome-2{
+    width: 40%;
+    float: left;
+}
+.welcome-1 h2{
+    color: white;
+    font-family: "Roboto Condensed",sans-serif;
+    margin-bottom: 0px;
+    font-size: 36px;
+    margin-top: 62px;
+}
+.welcome-1 p{
+    font-family: "Roboto Condensed",sans-serif;
+    font-size: 15px;
+    color: white;
+    padding-top: 3px;
+}
+.welcome-2 img{
+    padding-top: 27px;
+    width: 98%;
+}
+.sp{
+    width: 100%;
+    float: left;
+    background-color: #f5f5f5;
+}
+.sp-1{
+    width: 100%;
+    float: left;
+    font-family: "Roboto Condensed",sans-serif;
+    padding: 18px 0px;
+    color: #646a7c;
+}
+.main{
+    width: 100%;
+    float: left;
+    padding: 60px 0px;
+}
+.main-1{
+    width: 50%;
+    float: left;
+}
+.main-2{
+    width: 50%;
+    float: left;
+}
+.img-fluid{
+    max-width: 75%;
+    float: right;
+
+}
+.main-1 p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: justify;
+    color: #646a7c;
+    padding-bottom: 10px;
+}
+.footer{
+    width: 100%;
+    float: left;
+    background-color: #19181d;
+    padding: 30px 0px 10px;
+}
+.footer-1{
+    width: 32.3334%;
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.footer-1 p{
+    
+    line-height: 24px;
+    color: #b2b1b8;
+    padding-bottom: 20px;
+}
+.footer-1 a{
+    color: #b2b1b8;
+    text-decoration: none;
+    padding: 10px 0px;
+}
+.footer-2{
+    width: 33.3334%;
+    float: left;
+    text-align: left;
+    color: white;
+}
+ul{
+    list-style-type: none;
+}
+.footer-2 a{
+   text-decoration: none;
+   font-weight: 200;
+   color: #b2b1b8;
+   font-size: 12px;
+   font-family: 'Roboto', sans-serif;
+}
+.footer-2 h2{
+    text-align: center;
+    padding-right: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.footer-2 li{
+    padding: 10px 135px;
+    
+}
+.footer-3{
+    width: 33.3334%;
+    float: left;
+}
+.footer-3 h2{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 15px;
+    padding-left: 40px;
+}
+.footer-31 a{
+    color: #b2b1b8;
+    padding: 10px 0px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+.footer-31 i{
+    color: #b2b1b8;
+}
+.footer-31{
+   padding: 0px 40px;
+}
+.base{
+    width: 100%;
+    float: left;
+    background: black;
+    padding: 20px 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.base-1{
+    width: 50%;
+    float: left;
+}
+.base-2{
+    width: 50%;
+    float: left;
+}
+.base-1 p{
+    color: #646a7c;
+}
+.base-2 p{
+    color: #646a7c;
+    text-align: right;
+    
+}

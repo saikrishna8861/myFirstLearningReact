@@ -1,0 +1,95 @@
+
+.container{
+    width: 1400px;
+    margin: auto;
+    
+  }
+ .bg-1{
+     width: 100%;
+     float: left;
+     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/te.jpg");
+     background-size: cover;
+ }
+ .bg-1 h1{
+     text-align: center;
+     color: #fff;
+     font-size: 34px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .bg-10{
+  text-align: center;
+ }
+ .bg-11{
+     width: 38%;
+     float: left;
+     margin-right: 20px;
+ }
+ .bg-12{
+     width: 55%;
+     float: left;
+     margin-top: 50px;
+     margin-bottom: 50px;
+     margin-left: 50px;
+ }
+  .header{
+    font-family: sans-serif;
+    text-align: center;
+  
+  }
+  [class*="slideshow"] img {
+    display:none;
+  }
+  .image_wrapper .text_content {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    color: #fff;
+    text-shadow: 0 0 3px rgba(0,0,0,.5);
+    opacity: 1;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    margin-top: 50px;
+
+    
+    
+  }
+  
+  
+  .text_content * {
+    margin: .1em 0;
+  
+    
+  }
+  .slideshow.example-1{
+    width: 100%;
+    height: 600px;
+  }
+  .slideshow.example-2{
+    width: 100%;
+    height: 600px;
+  }
+.demos{
+    width: 100%;
+    height: auto;
+}
+.bg-bg{
+  width: 100%;
+  float: left;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/got7.jpg");
+  background-size: cover;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.item img{
+  width: 600px;
+  height: 400px;
+}
+.bg-bg h1{
+  text-align: center;
+    padding-bottom: 20px;
+    color: #fff;
+}
+#demo{
+  width: 100%;
+  float: left;
+}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+<script>
+function myFunction(){
+documentgetElementById("demo").innerHTML="fuck off";
+</script>
+</head>
+<body>
+<button type="button" onclick="myFunction()">try it</button>
+<h2>My First Web Page</h2>
+<p id="demo">My first paragraph.</p>
+</body>
+</html> 

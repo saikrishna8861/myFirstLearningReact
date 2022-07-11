@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 1300px;
+    margin: auto;
+}
+.header{
+    width: 100%;
+    float: left;
+}
+.header1{
+    width: 100%;
+    float: left;
+}
+.header11{
+    width: 50%;
+    float: left;
+}
+.header12{
+    width: 50%;
+    float: left;
+}
+.header{
+    box-shadow: 0 0 3px rgb(0 0 0 / 30%);
+}

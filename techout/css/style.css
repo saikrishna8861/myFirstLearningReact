@@ -1,0 +1,11 @@
+#range{
+   
+    height: 35px;
+   
+    background-color: #4CAF50;
+    line-height: 32px;
+    color: black;
+}
+.progress{
+    justify-content: center;
+}

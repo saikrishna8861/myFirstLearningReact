@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.head h1{
+    text-align: center;
+    font-size: 52px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+}
+.head li{
+    text-align: center;
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 42px;
+    color: #fff;
+}
+.header{
+    background-image: url("../images/asphalt-bg.png");
+    width: 100%;
+    height: 1500px;
+}
